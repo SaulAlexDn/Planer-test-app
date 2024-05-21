@@ -25,7 +25,7 @@
       "package": "com.alex.phomin.todoapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon-my.png"
     },
     "plugins": [
       "expo-font"
